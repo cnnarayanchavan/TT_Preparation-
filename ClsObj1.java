@@ -10,6 +10,7 @@ public class ClsObj1{
     s1.Gender = "Male";
     System.out.println("Hey there " +s1.Name + " You are " +s1.Age + " year old");
     System.out.println(s1.Gender);
+    System.out.println(s1.Marks);
     
       
     
