@@ -6,7 +6,7 @@ public class ClsObj1{
     s1.Name = "Narayana";
     s1.Age = 21;
     //s1.Marks = 8.7;
-    s1.Marks = 8.17f
+    s1.Marks = 8.17f;
     s1.Gender = "Male";
     System.out.println("Hey there " +s1.Name + " You are " +s1.Age + " year old");
     System.out.println(s1.Gender);
@@ -19,7 +19,7 @@ class Student {
   String Name;
   int Age;
   //double Marks;
-  folat Marks;
+  float Marks;
   String Gender;
 }
 
