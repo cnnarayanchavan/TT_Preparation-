@@ -15,7 +15,7 @@ public class ClsObj1{
 class Student {
   String Name;
   int Age;
-  float Marks;
+  double Marks;
   String Gender;
 }
 
