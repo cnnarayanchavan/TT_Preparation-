@@ -1,7 +1,7 @@
 public class Pillers_Poly{
   public static void main(String[]args){
     Calculator cal1 = new Calculator();
-    System.out.println(cal1.calcOperation(12,12));
+    System.out.println(cal1.calcOperation(34.2,34.3));
   }
 }
 class Calculator{
