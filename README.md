@@ -3,6 +3,11 @@
 
 * OOPs
   - Classes and objects.(ClsObj1.java)
-  - done with it🙂
-  - JDBC module Started
-  - 
+  - Encapulation and Abstraction
+  - Interfaces and Multiple Inheritance
+  - Polymorphism Overloading and Overriding 
+  - Aggragition and Composition.
+  - Concrete Method.
+  - Late binding(compile time) and Early binding(run time) 
+  - Wrapper Class
+    
