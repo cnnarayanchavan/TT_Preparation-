@@ -12,5 +12,6 @@
   - Wrapper Class
  
 * Non_Primitives (Linear Datatypes)
-  - Arrays: 
+  - Arrays:
+  - ArrayList:
     
